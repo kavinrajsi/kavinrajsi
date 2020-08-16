@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
  ## Hi, I'm Kavinraj S.I
 ![Kavinraj's github stats](https://github-readme-stats.vercel.app/api?username=kavinrajsi&count_private=truea&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinrajsi)]
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinrajsi)
